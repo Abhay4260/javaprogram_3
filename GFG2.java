@@ -3,7 +3,7 @@
 import java.io.*;
 
 // Drive Class
-class GFG {
+class GFG2 {
       // Main Function
     public static void main (String[] args) {
           
